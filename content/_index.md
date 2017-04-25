@@ -5,5 +5,5 @@ draft = false
 
 +++
 
-it can be something else
+it is expected to work with this file
 
