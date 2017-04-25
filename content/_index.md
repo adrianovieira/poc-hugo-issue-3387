@@ -1,6 +1,6 @@
 +++
 date = "2017-04-25T09:53:08-03:00"
-title = "_index"
+title = "Home"
 draft = false
 
 +++
